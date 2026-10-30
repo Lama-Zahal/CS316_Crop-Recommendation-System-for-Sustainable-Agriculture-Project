@@ -1,1 +1,14 @@
+# Data manipulation
+numpy
+pandas
+pyarrow
 
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Model serialization
+joblib
