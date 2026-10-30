@@ -1,0 +1,13 @@
+,Metric,Random Forest before PCA,Random Forest after PCA
+0,Accuracy,"0    0.995455
+Name: accuracy, dtype: float64","0    0.977273
+Name: accuracy, dtype: float64"
+1,Macro Precision,"0    0.995671
+Name: macro_precision, dtype: float64","0    0.978532
+Name: macro_precision, dtype: float64"
+2,Macro Recall,"0    0.995455
+Name: macro_recall, dtype: float64","0    0.977273
+Name: macro_recall, dtype: float64"
+3,Macro F1,"0    0.995452
+Name: macro_f1, dtype: float64","0    0.977117
+Name: macro_f1, dtype: float64"

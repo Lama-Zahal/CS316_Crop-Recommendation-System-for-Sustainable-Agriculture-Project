@@ -1,0 +1,2 @@
+model,accuracy,macro_precision,macro_recall,macro_f1
+Random Forest after PCA,0.9772727272727273,0.9785320739866195,0.9772727272727273,0.9771165996454827
