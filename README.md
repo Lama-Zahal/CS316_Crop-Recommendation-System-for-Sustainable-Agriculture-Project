@@ -46,7 +46,12 @@ This notebook implements the final crop recommendation function to test the mode
 best_model.joblib
 **Important:** Upload best_model.joblib into the Google Colab runtime before executing this notebook
 
-# 5. Technologies and Tools
+# 5. How to run the project
+Prerequisites:
+- Access to Google Colab.
+- Required Python libraries installed.
+
+# 6. Libraries and Tools
 - Python
 - Google Colab
 - Pandas
@@ -56,7 +61,7 @@ best_model.joblib
 - Sckit-Learn
 - Joblib
 
-# 6. Team Members
+# 7. Team Members
 Nourah Aldhayan
 Yara Alsharari
 Leen Alhabdan
