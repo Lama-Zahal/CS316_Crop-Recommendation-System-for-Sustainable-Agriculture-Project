@@ -51,6 +51,32 @@ Prerequisites:
 - Access to Google Colab.
 - Required Python libraries installed.
 
+Run the notebooks in the following order:
+
+- Step 1 – Data Exploration:
+Open 01_data_exploration.ipynb and execute the cells to explore, clean, and prepare the original dataset.
+The notebook generates clean_crop.parquet.
+
+- Step 2 – Model Training and Evaluation
+Open 02_model_training_and_evaluation_final.ipynb.
+Before running the notebook:
+Upload clean_crop.parquet into the runtime.
+Execute the notebook cells.
+
+- Step 3 – Best Model Selection and PCA
+Open 03_Best_Model_After_PCA.ipynb.
+Before running the notebook:
+Upload best_model.csv into the runtime.
+Execute the notebook cells.
+
+- Step 4 – Crop Recommendation System
+Open 04_recommendation_system.ipynb.
+Before running the notebook:
+Upload best_model.joblib into the runtime.
+Execute the notebook cells.
+
+Enter the required soil and environmental conditions to receive a crop recommendation.
+
 # 6. Libraries and Tools
 - Python
 - Google Colab
